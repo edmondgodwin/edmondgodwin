@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @edmondgodwin
+﻿- 👋 Hi, I’m @edmondgodwin
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Maven
+- 🌱 I’m currently learning Maven and Jenkins
 - 💞️ I’m looking to collaborate on Kubernetes
 - 📫 How to reach me on twitter @thehakaiva
 
